@@ -18,6 +18,7 @@
 # About myself
 
 To be honest, I can proudly say that I am studying programming now and I want to become a good specialist in this field. 
+I realized that I want work in this area, participate in projects that are designed to make people's lives easier.
 I consider myself hardworking, reliable, helpful, honest and cooperative. 
 # Hard skills
 
