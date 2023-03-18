@@ -3,6 +3,8 @@
 
 **Location**: Minsk, Belarus
 
+**Phone**: +375 29 558-03-04
+
 **E-mail**: Lubashyshlo@gmail.com
 
 **Telegram**: @Liubou5
