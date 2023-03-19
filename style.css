@@ -91,3 +91,22 @@ li{
  display: flex;
  justify-content: space-between;
 }
+
+@media all and (max-width: 800px) {
+    .photo-contacts,  .expirence-education {
+        flex-direction: column;
+    }
+}
+
+@media all and (max-width: 500px) {
+    body, li {
+        font-size: 15px;
+    }
+    .heading {
+        font-size: 15px;
+    }
+    .code-image{
+        width: 200px;
+        height: 200px;
+    }
+    }
